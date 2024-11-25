@@ -1,6 +1,6 @@
 # Natã Henrique
 
-### 🎮 Desenvolvedor de Jogos | Técnico em Informática
+### 👨‍💻 Desenvolvedor Back-End | Técnico em Informática
 
 ### Sobre mim
 ## Olá, eu sou Natã Henrique, um apaixonado por tecnologia e entusiasta do mundo dos games. Atualmente, estou cursando o terceiro ano do curso técnico em Informática, buscando aprimorar minhas habilidades e conhecimentos, principalmente em desenvolvimento de jogos. ##
@@ -26,14 +26,12 @@
 </div><br/>
 
 ### Objetivos
- 🚀 Contribuir para a comunidade de desenvolvimento de jogos
+ 🚀 Contribuir para a comunidade de tecnologia
 <br>
-📚 Aprender novas técnicas e tecnologias
-<br>
-🎯 Criar experiências de jogos inovadoras e envolventes
+📚 Aprender novas técnicas e aprimorar habilidades
 
-### Jogos Recentes
-  🎮 "Fazbear´s Descent" - Um jogo simples de terror desenvolvido na unity
+
+
 
 
 
