@@ -1,6 +1,6 @@
 # Natã Henrique
 
-### 👨‍💻 Desenvolvedor Back-End | Técnico em Informática
+### 👨‍💻 Desenvolvedor de Jogos e Back-End | Técnico em Informática
 
 ### Sobre mim
 ## Olá, eu sou Natã Henrique, um apaixonado por tecnologia e entusiasta do mundo dos games. Atualmente, estou cursando o terceiro ano do curso técnico em Informática, buscando aprimorar minhas habilidades e conhecimentos, principalmente em desenvolvimento de jogos. ##
