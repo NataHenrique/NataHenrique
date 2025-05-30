@@ -3,7 +3,7 @@
 ### 👨‍💻 Desenvolvedor de Jogos e Back-End | Técnico em Informática
 
 ### Sobre mim
-## Olá, eu sou Natã Henrique, um apaixonado por tecnologia e entusiasta do mundo dos games. Atualmente, sou formado técnico em informática, e estou cursando Engenharia da Computação, buscando aprimorar minhas habilidades e conhecimentos, principalmente em desenvolvimento de jogos. ##
+## Olá, eu sou Natã Henrique, um apaixonado por tecnologia e entusiasta do mundo dos games. Atualmente, sou formado técnico em informática, e estou cursando Engenharia da Computação (1ºSem), buscando aprimorar minhas habilidades e conhecimentos, principalmente em desenvolvimento de jogos. ##
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natahenriique/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=19987661624)
