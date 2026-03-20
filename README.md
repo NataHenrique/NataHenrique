@@ -16,7 +16,7 @@ Busco construir minha carreira desenvolvendo soluções robustas que resolvam pr
 
 ## 🔎 Foco Atual
 
-- Desenvolvimento back-end com Java e Python  
+- Desenvolvimento back-end com Java
 - Criação e integração de APIs REST  
 - Modelagem e manipulação de bancos de dados relacionais  
 - Aplicação de boas práticas de código (Clean Code)  
