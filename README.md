@@ -1,6 +1,6 @@
 # Natã Henrique
 
-### Desenvolvedor Back-End em Formação | Java & APIs | Estudante de Engenharia da Computação
+### Desenvolvedor Back-End | Java & APIs | Estudante de Engenharia da Computação
 
 ---
 
